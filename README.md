@@ -4,4 +4,8 @@ Repositorio creado con fines didácticos para el desarrollo de la reunión de fe
 
 Enlaces, instrucciones y archivos relativos al meetup "Iniciación a Git"
 
+
 Cambios añadidos en local. 
+
+Cambio de Fernando
+
